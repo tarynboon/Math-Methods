@@ -1,13 +1,4 @@
-/*
- * File: FindRange.java
- * Name: 
- * Section Leader: 
- * --------------------
- * This file is the starter file for the FindRange problem.
- */
-
 //Taryn Boonpongmanee
-//9.29.21
 //Find Range
 
 import acm.program.*;
