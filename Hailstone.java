@@ -1,15 +1,6 @@
 /*
- * File: Hailstone.java
- * Name: 
- * Section Leader: 
- * --------------------
- * This file is the starter file for the Hailstone problem.
- */
-
-/*
 Taryn Boonpongmanee
-10.7.21
-This program writes takes in a number and does calculations to get it down to 1
+This program writes takes in a number and does calculations to get it down to 1 (Hailstone).
  */
 
 import acm.program.*;
