@@ -1,6 +1,5 @@
 /*
 Taryn Boonpongmanee
-10.7.21
 This program writes the first n number of prime numbers
  */
 
