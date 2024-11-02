@@ -1,13 +1,4 @@
-/*
- * File: PythagoreanTheorem.java
- * Name: 
- * Section Leader: 
- * -----------------------------
- * This file is the starter file for the PythagoreanTheorem problem.
- */
-
 //Taryn Boonpongmanee
-//9.29.21
 //Pythagorean Theorem
 
 import acm.program.*;
